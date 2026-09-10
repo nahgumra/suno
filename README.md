@@ -1,2 +1,2 @@
-# suno
-Suno app
+# Sunno
+Sunno app
